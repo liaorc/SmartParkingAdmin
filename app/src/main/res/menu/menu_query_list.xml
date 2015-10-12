@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_item_qr_scan"
+          android:icon="@drawable/qscan_icon240x240"
+          android:title="@string/qr_scan"
+          android:showAsAction="ifRoom">
+    </item>
+</menu>
