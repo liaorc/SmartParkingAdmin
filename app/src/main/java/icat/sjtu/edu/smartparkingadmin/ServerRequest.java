@@ -15,7 +15,7 @@ import cz.msebera.android.httpclient.client.utils.URIBuilder;
 /**
  * Created by Ruochen on 2015/9/21.
  */
-public class ServerRequest extends AsyncHttpClient {
+public class ServerRequest {
     private static final String TAG = "PARK_HTTPS";
 
     private static final String HTTP_ROOT = "https://139.196.26.139";
